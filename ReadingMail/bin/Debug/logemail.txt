@@ -1,0 +1,140 @@
+5.03.2019 22:13:58 --- Read all active email boxes
+5.03.2019 22:13:58 --- Timer activated
+5.03.2019 22:15:10 --- Read all active email boxes
+5.03.2019 22:15:10 --- Timer activated
+5.03.2019 22:15:27 --- Read all active email boxes
+5.03.2019 22:15:27 --- Timer activated
+5.03.2019 22:23:19 --- Read all active email boxes
+5.03.2019 22:23:19 --- Timer activated
+5.03.2019 22:24:13 --- Read all active email boxes
+5.03.2019 22:24:13 --- Timer activated
+5.03.2019 22:25:52 --- Read all active email boxes
+5.03.2019 22:25:52 --- Timer activated
+5.03.2019 22:26:29 --- Read all active email boxes
+5.03.2019 22:26:29 --- Timer activated
+5.03.2019 22:26:53 --- Read all active email boxes
+5.03.2019 22:26:53 --- Timer activated
+5.03.2019 22:29:16 --- Read all active email boxes
+5.03.2019 22:29:16 --- Timer activated
+5.03.2019 22:31:57 --- Read all active email boxes
+5.03.2019 22:31:57 --- Timer activated
+5.03.2019 22:33:49 --- Read all active email boxes
+5.03.2019 22:33:49 --- Timer activated
+5.03.2019 22:35:12 --- Read all active email boxes
+5.03.2019 22:35:12 --- Timer activated
+5.03.2019 22:35:50 --- Read all active email boxes
+5.03.2019 22:35:50 --- Timer activated
+5.03.2019 22:38:17 --- Read all active email boxes
+5.03.2019 22:38:17 --- Timer activated
+5.03.2019 22:38:51 --- Read all active email boxes
+5.03.2019 22:38:51 --- Timer activated
+5.03.2019 22:40:18 --- Read all active email boxes
+5.03.2019 22:40:18 --- Timer activated
+5.03.2019 22:42:18 --- Read all active email boxes
+5.03.2019 22:42:18 --- Timer activated
+5.03.2019 22:44:19 --- Read all active email boxes
+5.03.2019 22:44:19 --- Timer activated
+5.03.2019 22:47:43 --- Timer activated
+5.03.2019 22:56:14 --- Read all active email boxes
+5.03.2019 22:56:14 --- Timer activated
+5.03.2019 22:57:06 --- Read all active email boxes
+5.03.2019 22:57:06 --- Timer activated
+5.03.2019 22:57:30 --- Read all active email boxes
+5.03.2019 22:57:30 --- Timer activated
+5.03.2019 23:06:11 --- Read all active email boxes
+5.03.2019 23:06:11 --- Timer activated
+5.03.2019 23:06:34 --- Read all active email boxes
+5.03.2019 23:06:34 --- Timer activated
+5.03.2019 23:08:53 --- T-000636 comment added
+5.03.2019 23:15:47 --- Read all active email boxes
+5.03.2019 23:15:47 --- Timer activated
+5.03.2019 23:16:20 --- Read all active email boxes
+5.03.2019 23:16:20 --- Timer activated
+5.03.2019 23:16:32 --- Read all active email boxes
+5.03.2019 23:16:32 --- Timer activated
+5.03.2019 23:17:58 --- Read all active email boxes
+5.03.2019 23:17:58 --- Timer activated
+5.03.2019 23:18:52 --- Read all active email boxes
+5.03.2019 23:18:52 --- Timer activated
+5.03.2019 23:19:26 --- Read all active email boxes
+5.03.2019 23:19:26 --- Timer activated
+5.03.2019 23:21:41 --- Read all active email boxes
+5.03.2019 23:21:41 --- Timer activated
+5.03.2019 23:22:01 ---    konum: ReadingMail.Emails.<NewSendMail>d__9.MoveNext() C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\Emails.cs içinde: satır 227
+5.03.2019 23:22:01 --- Dizin, dizi sınırlarının dışındaydı.
+5.03.2019 23:22:01 ---    konum: System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   konum: System.Collections.Generic.List`1.get_Item(Int32 index)
+   konum: ReadingMail.Program.TimerCallback(Object e) C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\Program.cs içinde: satır 83
+5.03.2019 23:22:01 --- Dizin aralık dışındaydı. Negatif bir değer olmamalı ve koleksiyonun boyutundan daha küçük olmalıdır.
+Parametre adı: index
+5.03.2019 23:24:06 --- Read all active email boxes
+5.03.2019 23:24:06 --- Timer activated
+5.03.2019 23:36:06 --- Read all active email boxes
+5.03.2019 23:36:06 --- Timer activated
+5.03.2019 23:36:29 ---    konum: ReadingMail.Emails.<NewSendMail>d__9.MoveNext() C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\Emails.cs içinde: satır 227
+5.03.2019 23:36:29 --- Dizin, dizi sınırlarının dışındaydı.
+5.03.2019 23:36:29 ---    konum: System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   konum: System.Collections.Generic.List`1.get_Item(Int32 index)
+   konum: ReadingMail.Program.TimerCallback(Object e) C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\Program.cs içinde: satır 83
+5.03.2019 23:36:29 --- Dizin aralık dışındaydı. Negatif bir değer olmamalı ve koleksiyonun boyutundan daha küçük olmalıdır.
+Parametre adı: index
+5.03.2019 23:37:06 --- Read all active email boxes
+5.03.2019 23:37:06 --- Timer activated
+5.03.2019 23:41:22 --- Read all active email boxes
+5.03.2019 23:41:22 --- Timer activated
+5.03.2019 23:50:02 --- Read all active email boxes
+5.03.2019 23:50:02 --- Timer activated
+5.03.2019 23:53:51 --- Timer activated
+6.03.2019 00:01:15 --- Timer activated
+6.03.2019 00:01:18 --- T-000640 comment added
+6.03.2019 00:01:24 ---    konum: System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   konum: System.Collections.Generic.List`1.get_Item(Int32 index)
+   konum: ReadingMail.Program.TimerCallback(Object e)
+6.03.2019 00:01:24 --- Dizin aralık dışındaydı. Negatif bir değer olmamalı ve koleksiyonun boyutundan daha küçük olmalıdır.
+Parametre adı: index
+6.03.2019 00:01:26 ---    konum: System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   konum: System.Collections.Generic.List`1.get_Item(Int32 index)
+   konum: ReadingMail.Program.TimerCallback(Object e)
+6.03.2019 00:01:26 --- Dizin aralık dışındaydı. Negatif bir değer olmamalı ve koleksiyonun boyutundan daha küçük olmalıdır.
+Parametre adı: index
+6.03.2019 00:01:32 ---    konum: System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   konum: System.Collections.Generic.List`1.get_Item(Int32 index)
+   konum: ReadingMail.Program.TimerCallback(Object e)
+6.03.2019 00:01:32 --- Dizin aralık dışındaydı. Negatif bir değer olmamalı ve koleksiyonun boyutundan daha küçük olmalıdır.
+Parametre adı: index
+6.03.2019 00:01:45 --- Read all active email boxes
+6.03.2019 00:01:45 --- Timer activated
+6.03.2019 00:09:48 --- Read all active email boxes
+6.03.2019 00:09:48 --- Timer activated
+6.03.2019 00:09:57 --- T-000636 comment added
+6.03.2019 00:10:04 ---    konum: System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   konum: System.Collections.Generic.List`1.get_Item(Int32 index)
+   konum: ReadingMail.Program.TimerCallback(Object e) C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\Program.cs içinde: satır 83
+6.03.2019 00:10:04 --- Dizin aralık dışındaydı. Negatif bir değer olmamalı ve koleksiyonun boyutundan daha küçük olmalıdır.
+Parametre adı: index
+6.03.2019 00:10:35 --- Read all active email boxes
+6.03.2019 00:10:35 --- Timer activated
+6.03.2019 00:10:49 ---    konum: System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   konum: System.Collections.Generic.List`1.get_Item(Int32 index)
+   konum: ReadingMail.Program.TimerCallback(Object e) C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\Program.cs içinde: satır 83
+6.03.2019 00:10:49 --- Dizin aralık dışındaydı. Negatif bir değer olmamalı ve koleksiyonun boyutundan daha küçük olmalıdır.
+Parametre adı: index
+6.03.2019 00:11:40 --- Read all active email boxes
+6.03.2019 00:11:40 --- Timer activated
+6.03.2019 00:11:49 --- T-000636 comment added
+6.03.2019 00:15:15 --- Read all active email boxes
+6.03.2019 00:15:15 --- Timer activated
+6.03.2019 00:16:32 --- T-000640 comment added
+6.03.2019 00:16:34 ---    konum: System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   konum: System.Collections.Generic.List`1.get_Item(Int32 index)
+   konum: ReadingMail.Program.TimerCallback(Object e) C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\Program.cs içinde: satır 83
+6.03.2019 00:16:34 --- Dizin aralık dışındaydı. Negatif bir değer olmamalı ve koleksiyonun boyutundan daha küçük olmalıdır.
+Parametre adı: index
+6.03.2019 00:18:24 --- Read all active email boxes
+6.03.2019 00:18:24 --- Timer activated
+6.03.2019 00:18:55 --- T-000640 comment added
+6.03.2019 00:18:58 ---    konum: System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   konum: System.Collections.Generic.List`1.get_Item(Int32 index)
+   konum: ReadingMail.Program.TimerCallback(Object e) C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\Program.cs içinde: satır 83
+6.03.2019 00:18:58 --- Dizin aralık dışındaydı. Negatif bir değer olmamalı ve koleksiyonun boyutundan daha küçük olmalıdır.
+Parametre adı: index

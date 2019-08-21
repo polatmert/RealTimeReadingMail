@@ -1,0 +1,385 @@
+C:\Users\mert.polat\Desktop\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\ReadingMail\ReadingMail\bin\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\ReadingMail\ReadingMail\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Users\mert.polat\Desktop\ReadingMail\ReadingMail\bin\Debug\stdole.dll
+C:\Users\mert.polat\Desktop\ReadingMail\ReadingMail\obj\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\ReadingMail\ReadingMail\obj\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.ResolveComReference.cache
+C:\Users\mert.polat\Desktop\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CoreCompileInputs.cache
+C:\Users\mert.polat\Desktop\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CopyComplete
+C:\Users\mert.polat\Desktop\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csprojAssemblyReference.cache
+C:\Users\POLAT\Desktop\LOGO\v2\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.ResolveComReference.cache
+C:\Users\POLAT\Desktop\LOGO\v2\ReadingMail\ReadingMail\obj\Debug\ReadingMail.exe
+C:\Users\POLAT\Desktop\LOGO\v2\ReadingMail\ReadingMail\obj\Debug\ReadingMail.pdb
+C:\Users\POLAT\Desktop\LOGO\v2\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe
+C:\Users\POLAT\Desktop\LOGO\v2\ReadingMail\ReadingMail\bin\Debug\ReadingMail.pdb
+C:\Users\POLAT\Desktop\LOGO\v2\ReadingMail\ReadingMail\bin\Debug\S22.Imap.dll
+C:\Users\POLAT\Desktop\LOGO\v2\ReadingMail\ReadingMail\bin\Debug\S22.Imap.xml
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v3\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v3\ReadingMail\ReadingMail\bin\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v3\ReadingMail\ReadingMail\bin\Debug\S22.Imap.dll
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v3\ReadingMail\ReadingMail\bin\Debug\S22.Imap.xml
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v3\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.ResolveComReference.cache
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v3\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CoreCompileInputs.cache
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v3\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CopyComplete
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v3\ReadingMail\ReadingMail\obj\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v3\ReadingMail\ReadingMail\obj\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v4\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v4\ReadingMail\ReadingMail\bin\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v4\ReadingMail\ReadingMail\bin\Debug\S22.Imap.dll
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v4\ReadingMail\ReadingMail\bin\Debug\S22.Imap.xml
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v4\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.ResolveComReference.cache
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v4\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CoreCompileInputs.cache
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v4\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CopyComplete
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v4\ReadingMail\ReadingMail\obj\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v4\ReadingMail\ReadingMail\obj\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v4\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v4\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v4\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe.config
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v4\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v4\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v4\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v4\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v4\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csprojAssemblyReference.cache
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v5\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe.config
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v5\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v5\ReadingMail\ReadingMail\bin\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v5\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v5\ReadingMail\ReadingMail\bin\Debug\S22.Imap.dll
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v5\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v5\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v5\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v5\ReadingMail\ReadingMail\bin\Debug\S22.Imap.xml
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v5\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v5\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v5\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.ResolveComReference.cache
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v5\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CoreCompileInputs.cache
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v5\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CopyComplete
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v5\ReadingMail\ReadingMail\obj\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v5\ReadingMail\ReadingMail\obj\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v5\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csprojAssemblyReference.cache
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v6\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe.config
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v6\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v6\ReadingMail\ReadingMail\bin\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v6\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v6\ReadingMail\ReadingMail\bin\Debug\S22.Imap.dll
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v6\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v6\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v6\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v6\ReadingMail\ReadingMail\bin\Debug\S22.Imap.xml
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v6\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v6\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v6\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.ResolveComReference.cache
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v6\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CoreCompileInputs.cache
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v6\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CopyComplete
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v6\ReadingMail\ReadingMail\obj\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\LOGO CRM MAİL ENTEGRASYONU\v6\ReadingMail\ReadingMail\obj\Debug\ReadingMail.pdb
+C:\Users\POLAT\Desktop\v7\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe.config
+C:\Users\POLAT\Desktop\v7\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe
+C:\Users\POLAT\Desktop\v7\ReadingMail\ReadingMail\bin\Debug\ReadingMail.pdb
+C:\Users\POLAT\Desktop\v7\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\POLAT\Desktop\v7\ReadingMail\ReadingMail\bin\Debug\S22.Imap.dll
+C:\Users\POLAT\Desktop\v7\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\POLAT\Desktop\v7\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\POLAT\Desktop\v7\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\POLAT\Desktop\v7\ReadingMail\ReadingMail\bin\Debug\S22.Imap.xml
+C:\Users\POLAT\Desktop\v7\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\POLAT\Desktop\v7\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\POLAT\Desktop\v7\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.ResolveComReference.cache
+C:\Users\POLAT\Desktop\v7\ReadingMail\ReadingMail\obj\Debug\ReadingMail.exe
+C:\Users\POLAT\Desktop\v7\ReadingMail\ReadingMail\obj\Debug\ReadingMail.pdb
+C:\Users\POLAT\Desktop\v8\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe.config
+C:\Users\POLAT\Desktop\v8\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.ResolveComReference.cache
+C:\Users\POLAT\Desktop\v8\ReadingMail\ReadingMail\obj\Debug\ReadingMail.exe
+C:\Users\POLAT\Desktop\v8\ReadingMail\ReadingMail\obj\Debug\ReadingMail.pdb
+C:\Users\POLAT\Desktop\v8\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe
+C:\Users\POLAT\Desktop\v8\ReadingMail\ReadingMail\bin\Debug\ReadingMail.pdb
+C:\Users\POLAT\Desktop\v8\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\POLAT\Desktop\v8\ReadingMail\ReadingMail\bin\Debug\S22.Imap.dll
+C:\Users\POLAT\Desktop\v8\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\POLAT\Desktop\v8\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\POLAT\Desktop\v8\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\POLAT\Desktop\v8\ReadingMail\ReadingMail\bin\Debug\S22.Imap.xml
+C:\Users\POLAT\Desktop\v8\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\POLAT\Desktop\v8\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mert.polat\Desktop\v8\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe.config
+C:\Users\mert.polat\Desktop\v8\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v8\ReadingMail\ReadingMail\bin\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v8\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mert.polat\Desktop\v8\ReadingMail\ReadingMail\bin\Debug\S22.Imap.dll
+C:\Users\mert.polat\Desktop\v8\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mert.polat\Desktop\v8\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mert.polat\Desktop\v8\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mert.polat\Desktop\v8\ReadingMail\ReadingMail\bin\Debug\S22.Imap.xml
+C:\Users\mert.polat\Desktop\v8\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mert.polat\Desktop\v8\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mert.polat\Desktop\v8\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.ResolveComReference.cache
+C:\Users\mert.polat\Desktop\v8\ReadingMail\ReadingMail\obj\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v8\ReadingMail\ReadingMail\obj\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v9\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe.config
+C:\Users\mert.polat\Desktop\v9\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v9\ReadingMail\ReadingMail\bin\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v9\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mert.polat\Desktop\v9\ReadingMail\ReadingMail\bin\Debug\S22.Imap.dll
+C:\Users\mert.polat\Desktop\v9\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mert.polat\Desktop\v9\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mert.polat\Desktop\v9\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mert.polat\Desktop\v9\ReadingMail\ReadingMail\bin\Debug\S22.Imap.xml
+C:\Users\mert.polat\Desktop\v9\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mert.polat\Desktop\v9\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mert.polat\Desktop\v9\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.ResolveComReference.cache
+C:\Users\mert.polat\Desktop\v9\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CoreCompileInputs.cache
+C:\Users\mert.polat\Desktop\v9\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CopyComplete
+C:\Users\mert.polat\Desktop\v9\ReadingMail\ReadingMail\obj\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v9\ReadingMail\ReadingMail\obj\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v10\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe.config
+C:\Users\mert.polat\Desktop\v10\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v10\ReadingMail\ReadingMail\bin\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v10\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mert.polat\Desktop\v10\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mert.polat\Desktop\v10\ReadingMail\ReadingMail\bin\Debug\S22.Imap.dll
+C:\Users\mert.polat\Desktop\v10\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mert.polat\Desktop\v10\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mert.polat\Desktop\v10\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mert.polat\Desktop\v10\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mert.polat\Desktop\v10\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mert.polat\Desktop\v10\ReadingMail\ReadingMail\bin\Debug\S22.Imap.xml
+C:\Users\mert.polat\Desktop\v10\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mert.polat\Desktop\v10\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mert.polat\Desktop\v10\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.ResolveComReference.cache
+C:\Users\mert.polat\Desktop\v10\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CoreCompileInputs.cache
+C:\Users\mert.polat\Desktop\v10\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CopyComplete
+C:\Users\mert.polat\Desktop\v10\ReadingMail\ReadingMail\obj\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v10\ReadingMail\ReadingMail\obj\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v11\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe.config
+C:\Users\mert.polat\Desktop\v11\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v11\ReadingMail\ReadingMail\bin\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v11\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mert.polat\Desktop\v11\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mert.polat\Desktop\v11\ReadingMail\ReadingMail\bin\Debug\S22.Imap.dll
+C:\Users\mert.polat\Desktop\v11\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mert.polat\Desktop\v11\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mert.polat\Desktop\v11\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mert.polat\Desktop\v11\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mert.polat\Desktop\v11\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mert.polat\Desktop\v11\ReadingMail\ReadingMail\bin\Debug\S22.Imap.xml
+C:\Users\mert.polat\Desktop\v11\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mert.polat\Desktop\v11\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mert.polat\Desktop\v11\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.ResolveComReference.cache
+C:\Users\mert.polat\Desktop\v11\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CoreCompileInputs.cache
+C:\Users\mert.polat\Desktop\v11\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CopyComplete
+C:\Users\mert.polat\Desktop\v11\ReadingMail\ReadingMail\obj\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v11\ReadingMail\ReadingMail\obj\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v11\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csprojAssemblyReference.cache
+C:\Users\mert.polat\Desktop\v12\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe.config
+C:\Users\mert.polat\Desktop\v12\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v12\ReadingMail\ReadingMail\bin\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v12\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mert.polat\Desktop\v12\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mert.polat\Desktop\v12\ReadingMail\ReadingMail\bin\Debug\S22.Imap.dll
+C:\Users\mert.polat\Desktop\v12\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mert.polat\Desktop\v12\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mert.polat\Desktop\v12\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mert.polat\Desktop\v12\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mert.polat\Desktop\v12\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mert.polat\Desktop\v12\ReadingMail\ReadingMail\bin\Debug\S22.Imap.xml
+C:\Users\mert.polat\Desktop\v12\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mert.polat\Desktop\v12\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mert.polat\Desktop\v12\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.ResolveComReference.cache
+C:\Users\mert.polat\Desktop\v12\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CoreCompileInputs.cache
+C:\Users\mert.polat\Desktop\v12\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CopyComplete
+C:\Users\mert.polat\Desktop\v12\ReadingMail\ReadingMail\obj\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v12\ReadingMail\ReadingMail\obj\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v12\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csprojAssemblyReference.cache
+C:\Users\mert.polat\Desktop\v13\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe.config
+C:\Users\mert.polat\Desktop\v13\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v13\ReadingMail\ReadingMail\bin\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v13\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mert.polat\Desktop\v13\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mert.polat\Desktop\v13\ReadingMail\ReadingMail\bin\Debug\S22.Imap.dll
+C:\Users\mert.polat\Desktop\v13\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mert.polat\Desktop\v13\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mert.polat\Desktop\v13\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mert.polat\Desktop\v13\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mert.polat\Desktop\v13\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mert.polat\Desktop\v13\ReadingMail\ReadingMail\bin\Debug\S22.Imap.xml
+C:\Users\mert.polat\Desktop\v13\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mert.polat\Desktop\v13\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mert.polat\Desktop\v13\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.ResolveComReference.cache
+C:\Users\mert.polat\Desktop\v13\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CoreCompileInputs.cache
+C:\Users\mert.polat\Desktop\v13\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CopyComplete
+C:\Users\mert.polat\Desktop\v13\ReadingMail\ReadingMail\obj\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v13\ReadingMail\ReadingMail\obj\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v14\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.ResolveComReference.cache
+C:\Users\mert.polat\Desktop\v14\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CoreCompileInputs.cache
+C:\Users\mert.polat\Desktop\v14\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe.config
+C:\Users\mert.polat\Desktop\v14\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v14\ReadingMail\ReadingMail\bin\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v14\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mert.polat\Desktop\v14\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mert.polat\Desktop\v14\ReadingMail\ReadingMail\bin\Debug\S22.Imap.dll
+C:\Users\mert.polat\Desktop\v14\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mert.polat\Desktop\v14\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mert.polat\Desktop\v14\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mert.polat\Desktop\v14\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mert.polat\Desktop\v14\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mert.polat\Desktop\v14\ReadingMail\ReadingMail\bin\Debug\S22.Imap.xml
+C:\Users\mert.polat\Desktop\v14\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mert.polat\Desktop\v14\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mert.polat\Desktop\v14\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CopyComplete
+C:\Users\mert.polat\Desktop\v14\ReadingMail\ReadingMail\obj\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v14\ReadingMail\ReadingMail\obj\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v15\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe.config
+C:\Users\mert.polat\Desktop\v15\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v15\ReadingMail\ReadingMail\bin\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v15\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mert.polat\Desktop\v15\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mert.polat\Desktop\v15\ReadingMail\ReadingMail\bin\Debug\S22.Imap.dll
+C:\Users\mert.polat\Desktop\v15\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mert.polat\Desktop\v15\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mert.polat\Desktop\v15\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mert.polat\Desktop\v15\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mert.polat\Desktop\v15\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mert.polat\Desktop\v15\ReadingMail\ReadingMail\bin\Debug\S22.Imap.xml
+C:\Users\mert.polat\Desktop\v15\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mert.polat\Desktop\v15\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mert.polat\Desktop\v15\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.ResolveComReference.cache
+C:\Users\mert.polat\Desktop\v15\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CoreCompileInputs.cache
+C:\Users\mert.polat\Desktop\v15\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CopyComplete
+C:\Users\mert.polat\Desktop\v15\ReadingMail\ReadingMail\obj\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v15\ReadingMail\ReadingMail\obj\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v16\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe.config
+C:\Users\mert.polat\Desktop\v16\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v16\ReadingMail\ReadingMail\bin\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v16\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mert.polat\Desktop\v16\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mert.polat\Desktop\v16\ReadingMail\ReadingMail\bin\Debug\S22.Imap.dll
+C:\Users\mert.polat\Desktop\v16\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mert.polat\Desktop\v16\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mert.polat\Desktop\v16\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mert.polat\Desktop\v16\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mert.polat\Desktop\v16\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mert.polat\Desktop\v16\ReadingMail\ReadingMail\bin\Debug\S22.Imap.xml
+C:\Users\mert.polat\Desktop\v16\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mert.polat\Desktop\v16\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mert.polat\Desktop\v16\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.ResolveComReference.cache
+C:\Users\mert.polat\Desktop\v16\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CoreCompileInputs.cache
+C:\Users\mert.polat\Desktop\v16\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CopyComplete
+C:\Users\mert.polat\Desktop\v16\ReadingMail\ReadingMail\obj\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v16\ReadingMail\ReadingMail\obj\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v17\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe.config
+C:\Users\mert.polat\Desktop\v17\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v17\ReadingMail\ReadingMail\bin\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v17\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mert.polat\Desktop\v17\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mert.polat\Desktop\v17\ReadingMail\ReadingMail\bin\Debug\S22.Imap.dll
+C:\Users\mert.polat\Desktop\v17\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mert.polat\Desktop\v17\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mert.polat\Desktop\v17\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mert.polat\Desktop\v17\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mert.polat\Desktop\v17\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mert.polat\Desktop\v17\ReadingMail\ReadingMail\bin\Debug\S22.Imap.xml
+C:\Users\mert.polat\Desktop\v17\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mert.polat\Desktop\v17\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mert.polat\Desktop\v17\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.ResolveComReference.cache
+C:\Users\mert.polat\Desktop\v17\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CoreCompileInputs.cache
+C:\Users\mert.polat\Desktop\v17\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CopyComplete
+C:\Users\mert.polat\Desktop\v17\ReadingMail\ReadingMail\obj\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v17\ReadingMail\ReadingMail\obj\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v19\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe.config
+C:\Users\mert.polat\Desktop\v19\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v19\ReadingMail\ReadingMail\bin\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v19\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mert.polat\Desktop\v19\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mert.polat\Desktop\v19\ReadingMail\ReadingMail\bin\Debug\S22.Imap.dll
+C:\Users\mert.polat\Desktop\v19\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mert.polat\Desktop\v19\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mert.polat\Desktop\v19\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mert.polat\Desktop\v19\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mert.polat\Desktop\v19\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mert.polat\Desktop\v19\ReadingMail\ReadingMail\bin\Debug\S22.Imap.xml
+C:\Users\mert.polat\Desktop\v19\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mert.polat\Desktop\v19\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mert.polat\Desktop\v19\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.ResolveComReference.cache
+C:\Users\mert.polat\Desktop\v19\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CoreCompileInputs.cache
+C:\Users\mert.polat\Desktop\v19\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CopyComplete
+C:\Users\mert.polat\Desktop\v19\ReadingMail\ReadingMail\obj\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v19\ReadingMail\ReadingMail\obj\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v21\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe.config
+C:\Users\mert.polat\Desktop\v21\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v21\ReadingMail\ReadingMail\bin\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v21\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mert.polat\Desktop\v21\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mert.polat\Desktop\v21\ReadingMail\ReadingMail\bin\Debug\S22.Imap.dll
+C:\Users\mert.polat\Desktop\v21\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mert.polat\Desktop\v21\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mert.polat\Desktop\v21\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mert.polat\Desktop\v21\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mert.polat\Desktop\v21\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mert.polat\Desktop\v21\ReadingMail\ReadingMail\bin\Debug\S22.Imap.xml
+C:\Users\mert.polat\Desktop\v21\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mert.polat\Desktop\v21\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mert.polat\Desktop\v21\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.ResolveComReference.cache
+C:\Users\mert.polat\Desktop\v21\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CoreCompileInputs.cache
+C:\Users\mert.polat\Desktop\v21\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CopyComplete
+C:\Users\mert.polat\Desktop\v21\ReadingMail\ReadingMail\obj\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v21\ReadingMail\ReadingMail\obj\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v22\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe.config
+C:\Users\mert.polat\Desktop\v22\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v22\ReadingMail\ReadingMail\bin\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v22\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mert.polat\Desktop\v22\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mert.polat\Desktop\v22\ReadingMail\ReadingMail\bin\Debug\S22.Imap.dll
+C:\Users\mert.polat\Desktop\v22\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mert.polat\Desktop\v22\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mert.polat\Desktop\v22\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mert.polat\Desktop\v22\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mert.polat\Desktop\v22\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mert.polat\Desktop\v22\ReadingMail\ReadingMail\bin\Debug\S22.Imap.xml
+C:\Users\mert.polat\Desktop\v22\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mert.polat\Desktop\v22\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mert.polat\Desktop\v22\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.ResolveComReference.cache
+C:\Users\mert.polat\Desktop\v22\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CoreCompileInputs.cache
+C:\Users\mert.polat\Desktop\v22\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CopyComplete
+C:\Users\mert.polat\Desktop\v22\ReadingMail\ReadingMail\obj\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\v22\ReadingMail\ReadingMail\obj\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\v22\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csprojAssemblyReference.cache
+C:\Users\mert.polat\Desktop\ÇALIŞILAN DOSYA\v23\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe.config
+C:\Users\mert.polat\Desktop\ÇALIŞILAN DOSYA\v23\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\ÇALIŞILAN DOSYA\v23\ReadingMail\ReadingMail\bin\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\ÇALIŞILAN DOSYA\v23\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mert.polat\Desktop\ÇALIŞILAN DOSYA\v23\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mert.polat\Desktop\ÇALIŞILAN DOSYA\v23\ReadingMail\ReadingMail\bin\Debug\S22.Imap.dll
+C:\Users\mert.polat\Desktop\ÇALIŞILAN DOSYA\v23\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mert.polat\Desktop\ÇALIŞILAN DOSYA\v23\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mert.polat\Desktop\ÇALIŞILAN DOSYA\v23\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mert.polat\Desktop\ÇALIŞILAN DOSYA\v23\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mert.polat\Desktop\ÇALIŞILAN DOSYA\v23\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mert.polat\Desktop\ÇALIŞILAN DOSYA\v23\ReadingMail\ReadingMail\bin\Debug\S22.Imap.xml
+C:\Users\mert.polat\Desktop\ÇALIŞILAN DOSYA\v23\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mert.polat\Desktop\ÇALIŞILAN DOSYA\v23\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mert.polat\Desktop\ÇALIŞILAN DOSYA\v23\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.ResolveComReference.cache
+C:\Users\mert.polat\Desktop\ÇALIŞILAN DOSYA\v23\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CoreCompileInputs.cache
+C:\Users\mert.polat\Desktop\ÇALIŞILAN DOSYA\v23\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CopyComplete
+C:\Users\mert.polat\Desktop\ÇALIŞILAN DOSYA\v23\ReadingMail\ReadingMail\obj\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\ÇALIŞILAN DOSYA\v23\ReadingMail\ReadingMail\obj\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe.config
+C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\bin\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\bin\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\bin\Debug\S22.Imap.dll
+C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\bin\Debug\S22.Imap.xml
+C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.ResolveComReference.cache
+C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CoreCompileInputs.cache
+C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csproj.CopyComplete
+C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\obj\Debug\ReadingMail.exe
+C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\obj\Debug\ReadingMail.pdb
+C:\Users\mert.polat\Desktop\calis\v23\ReadingMail\ReadingMail\obj\Debug\ReadingMail.csprojAssemblyReference.cache
